@@ -79,10 +79,10 @@
 
 #social-container li{
     flex: 1 1 0;
-    max-width: 60px;
+    max-width: 80px;
 }
 #social-container li a{
-    color: var(--main-color);
+    /*color: var(--main-color);*/
     font-size: 30px;
 }
 
